@@ -1,0 +1,12 @@
+{
+    "name": "POWERLOGIC_PM5150",
+    "description": "Obtain data from POWERLOGIC_PM5150",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}

@@ -2,7 +2,10 @@
     "name": "POWERLOGIC_PM5150",
     "description": "Obtain data from POWERLOGIC_PM5150",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-modbus": "5.13.3",
+        "node-red-dashboard": "2.23.4"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
